@@ -25,7 +25,7 @@ SECRET_KEY = 'hlg&w)bd(^vxjz(j!i#6=+n%j&04#6g(ycakwqg9pmhgar_z_$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'fera.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'galnge.pythonanywhere.com']
 
 
 # Application definition
